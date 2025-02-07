@@ -4,7 +4,7 @@
 
 - 🔭 CoreVixu Developer.
 - 🌱 I’m currently learning JS frameworks (next,node) and python.
-- 📫 How to reach me: ![CoreVixu discord](https://discord.gg/cscynMxKmm)
+- 📫 How to reach me: [![CoreVixu Discord](https://cdn.discordapp.com/icons/1242816814048608256/1e5fdfd4f863fde128db7763fc6a7820.webp?size=96)](https://discord.gg/cscynMxKmm)
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## 🛠️ Technologies & Tools
