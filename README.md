@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JS frameworks (Next, Node) and Python.
 - 📫 How to reach me: 
   [![CoreVixu Discord](https://cdn.discordapp.com/icons/1242816814048608256/1e5fdfd4f863fde128db7763fc6a7820.webp?size=20)](https://discord.gg/cscynMxKmm) **CoreVixu Server**
-- ⚡ Fun fact: [A Fun Fact About You]
+- ⚡ Fun fact: I'm a student and I make things.
 
 ## 🛠️ Technologies & Tools
 
